@@ -224,7 +224,7 @@ echo str_replace('+', '-', $actual_link);
 <!----Countdown time Setting ---->
 <script>
 // Set the date we're counting down to
-var countDownDate = new Date("august 26, 2018 00:00:00").getTime();
+var countDownDate = new Date("january 1, 2019 00:00:00").getTime();
 
 // Update the count down every 01 second
 var x = setInterval(function() {
