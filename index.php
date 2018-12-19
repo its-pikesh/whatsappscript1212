@@ -127,6 +127,13 @@ echo "$n"
 	
 	
 <!-- responsive -->
+	   <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-9387592169234168",
+          enable_page_level_ads: true
+     });
+</script>
 
 
 </center>
@@ -168,7 +175,13 @@ echo str_replace('+', '-', $actual_link);
 	
 	
 <!-- responsive_text -->
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-9387592169234168",
+          enable_page_level_ads: true
+     });
+</script>
 
 </center>
  
