@@ -7,7 +7,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="canonical" href="index.html" itemprop="url" /> <title> Happy New Year 2019</title>
-<meta name="description" content="Create Happy Raksha Bandhan SMS, raksha bandhan messages, raksha bandhan images, raksha bandhan 2018, raksha bandhan, rakhi message, rakhi wishes, raksha bandhan status, raksha bandhan in hindi, rakhi date, raksha bandhan quotes 2018 wishing website" />
+<meta name="description" content="Create your personal Happy New year SMS, New Year messages, New Year images, New Year wishes," />
 <link rel="icon" href="image/rakhi-logo.png">
 <script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#property=5b486eaae1ceeb001b842d49&product=sticky-share-buttons' async='async'></script>
 
