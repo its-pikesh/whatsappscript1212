@@ -66,9 +66,6 @@ echo "$n"
 <div class="msg2"> Wishing You </div>
 <div class="msg3"> Happy New Year 2019 </div>
 
-<center style="margin-top:10px;"><audio controls autoplay>
- <source src="rakhi-song.mp3" type="audio/mpeg">
-</audio></center>
 </div>
 </div>
 <div class="row">
