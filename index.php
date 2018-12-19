@@ -158,7 +158,7 @@ echo "$n"
 <div class="tt">
 <span class="sb-title"> <i class="fa fa-share-alt" aria-hidden="true"></i> Share With Your Friends </span>
 <span class="sb-share">
-<div class="wp sb-icon btn btn-lg whatsapp animated pulse infinite"> <a href="whatsapp://send?text= *Happy New YearIn Advance* From <?php
+<div class="wp sb-icon btn btn-lg whatsapp animated pulse infinite"> <a href="whatsapp://send?text= *Happy New Year In Advance* From <?php
 
 $n=$_GET['by'];
 
