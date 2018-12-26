@@ -39,11 +39,15 @@
 
 <!-- header_320_50 -->
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- whatsap1 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9387592169234168"
+     data-ad-slot="4331733736"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
 <script>
-     (adsbygoogle = window.adsbygoogle || []).push({
-          google_ad_client: "ca-pub-9387592169234168",
-          enable_page_level_ads: true
-     });
+(adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
 
