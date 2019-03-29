@@ -6,8 +6,13 @@
 <meta charset="utf-8">
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<<<<<<< HEAD
 <link rel="canonical" href="index.html" itemprop="url" /> <title> Happy Diwali 2019</title>
 <meta name="description" content="Create Happy Raksha Bandhan SMS, raksha bandhan messages, raksha bandhan images, raksha bandhan 2018, raksha bandhan, rakhi message, rakhi wishes, raksha bandhan status, raksha bandhan in hindi, rakhi date, raksha bandhan quotes 2018 wishing website" />
+=======
+<link rel="canonical" href="index.html" itemprop="url" /> <title> Happy New Year 2019</title>
+<meta name="description" content="Create your personal Happy New year SMS, New Year messages, New Year images, New Year wishes," />
+>>>>>>> 701c4bc0684dec062fb05698fd47bad9f255d46d
 <link rel="icon" href="image/rakhi-logo.png">
 <script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#property=5b486eaae1ceeb001b842d49&product=sticky-share-buttons' async='async'></script>
 
@@ -20,6 +25,16 @@
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-112413136-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-112413136-2');
+</script>
+
 
 
 <body>
@@ -28,6 +43,17 @@
  <center>
 
 <!-- header_320_50 -->
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- whatsap1 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9387592169234168"
+     data-ad-slot="4331733736"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 
 </center>
@@ -120,6 +146,13 @@ echo "$n"
 	
 	
 <!-- responsive -->
+	   <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-9387592169234168",
+          enable_page_level_ads: true
+     });
+</script>
 
 
 </center>
@@ -134,7 +167,7 @@ echo "$n"
 <div class="tt">
 <span class="sb-title"> <i class="fa fa-share-alt" aria-hidden="true"></i> Share With Your Friends </span>
 <span class="sb-share">
-<div class="wp sb-icon btn btn-lg whatsapp animated pulse infinite"> <a href="whatsapp://send?text= *Happy Raksha Bandhan In Advance* From <?php
+<div class="wp sb-icon btn btn-lg whatsapp animated pulse infinite"> <a href="whatsapp://send?text= *Happy New Year In Advance* From <?php
 
 $n=$_GET['by'];
 
@@ -161,7 +194,13 @@ echo str_replace('+', '-', $actual_link);
 	
 	
 <!-- responsive_text -->
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-9387592169234168",
+          enable_page_level_ads: true
+     });
+</script>
 
 </center>
  
@@ -194,7 +233,7 @@ echo str_replace('+', '-', $actual_link);
 <!----Countdown time Setting ---->
 <script>
 // Set the date we're counting down to
-var countDownDate = new Date("august 26, 2018 00:00:00").getTime();
+var countDownDate = new Date("january 1, 2019 00:00:00").getTime();
 
 // Update the count down every 01 second
 var x = setInterval(function() {
